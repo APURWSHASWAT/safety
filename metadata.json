@@ -1,0 +1,6 @@
+{
+  "name": "Women Safety",
+  "description": "Women Safety app with emergency SOS, location tracking, power button shortcut, vehicle transit alert, and offline safety features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
